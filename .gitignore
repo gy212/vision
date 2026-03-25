@@ -1,0 +1,15 @@
+__pycache__/
+.venv/
+.idea/
+.trae/
+.claude/
+models/*.task
+*.mp4
+*.avi
+*.zip
+templates/
+outputs/
+标准样本/
+学员样本/
+标准动作要点/
+标准动作视频--分解版/
